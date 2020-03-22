@@ -12,7 +12,7 @@ The Jyputer notebooks and CSV datasets are located at the following URL:
 
 https://github.com/LamyaDaakir/CS7641_Assignment3
 
-Dataset #1 files:
+Files: 
     ionosphere.ipynb
     ionosphere.csv
     seismic.ipynb
